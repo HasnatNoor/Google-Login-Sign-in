@@ -1,0 +1,98 @@
+.main{
+    margin:240px;
+    border: 1px solid gainsboro;
+    
+ 
+  }
+  
+  
+  p{
+      font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+     font-size:13px;
+   }
+   h6{
+      font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+     color:#1a73e8;
+     font-size:16px;
+   }
+h3{ font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;}
+  
+   .btn-0{
+      
+    color: white;
+    background-color: #1a73e8;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    width: 7em;
+    margin-left: 180px;
+   }
+  
+   .btn-0:hover{
+       background-color:#1a65c8;
+   }
+ 
+  
+input{
+    border: 1px solid gainsboro;
+    border-radius: 5px ; 
+    display:inline-block;
+    height: 2.5em;
+    margin : 10px ; 
+    padding: 10px ;  
+    margin-right:2em; 
+    width:10em;
+    
+}
+
+.pack { width: 230px;
+    height: 230px;
+   text-align: center;
+   font-size: 20px;
+   font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif; 
+    position: absolute;
+    top: 300px;
+    left:750px;
+   
+  }
+.var{ display: inline; 
+  margin-left: 52px;}
+
+.var1{ display: inline; 
+  margin-left: 52px;}
+figcaption{
+    font-weight: -1em;
+  }
+  
+#email{ width: 47%; 
+display: block;}
+
+form{margin-left: 40px;
+    border: grey;
+padding: 10px;
+}
+
+
+.con{ display: inline-block;
+    
+   }
+.buttons123{ display: inline;
+position: absolute;
+top: 700px;
+left: 910px;}
+
+#country{ position: absolute;
+top: 710px;
+width: 10%;
+border: none;
+ }
+
+    
+
+
+
+
+
+
+
